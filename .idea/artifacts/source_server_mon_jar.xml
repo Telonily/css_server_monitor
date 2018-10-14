@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="source_server_mon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/source_server_mon_jar</output-path>
+    <root id="archive" name="source_server_mon.jar">
+      <element id="module-output" name="source_server_mon" />
+      <element id="file-copy" path="$PROJECT_DIR$/css_icon.png" />
+    </root>
+  </artifact>
+</component>
